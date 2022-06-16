@@ -1,11 +1,11 @@
 # Python program to generate random
 # password using Tkinter module
 import random
-import pyperclip
+import pypercli
 from tkinter import *
 from tkinter.ttk import *
 
-# Function for calculation of password
+# Function for calculation of passwor0
 def low():
 	entry.delete(0, END)
 
