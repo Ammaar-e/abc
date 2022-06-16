@@ -1,7 +1,7 @@
 # Python program to generate random
 # password using Tkinter module
 import random
-import pypercli
+import pypercliper
 from tkinter import *
 from tkinter.ttk import *
 
