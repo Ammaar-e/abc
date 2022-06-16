@@ -10,7 +10,7 @@ def low():
 	entry.delete(0, END)
 
 	# Get the length of password
-	length = var1.get()
+	length = var1.get(=peice1=)
 
 	lower = "abcdefghijklmnopqrstuvwxyz"
 	upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz"
